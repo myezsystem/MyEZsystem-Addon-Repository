@@ -1,2 +1,2 @@
-# myezsystem.plugins.repo
-Recommended Kodi Add-ons - - Add-ons Recomendados para Kodi
+# MyEZsystem-Addon-Repository
+Kodi Add-ons - - Add-ons para Kodi
